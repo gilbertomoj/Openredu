@@ -30,7 +30,7 @@ Em caso de desejar fazer contato direto com a comunidade, existe um [fórum](htt
 
     $ ./script/setup/init
     $ ./script/setup/run
-
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AA8E81B4331F7F50
 Nota: boa parte do que está nesses scripts pode ser reutilizado para outras
 plataformas (não só Mac).
 
