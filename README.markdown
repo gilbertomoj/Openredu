@@ -72,7 +72,6 @@ Este repositório contem o core do Openredu. O openredu-core é a parte central 
 Em caso de desejar fazer contato direto com a comunidade, existe um fórum (http://forum.openredu.com) o qual você pode tirar suas dúvidas, fazer postagens com sugestões, comentários e elogios. Sinta-se a vontade para contribuir e fazer a comunidade crescer!
 
 ---
-git push --set-upstream origin doc-update
 ## 💻 Setup
 ### 🖥️ Windows
 <details close>
